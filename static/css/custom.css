@@ -12231,3 +12231,6 @@ textarea.form-control {
 ::-webkit-scrollbar-thumb:hover {
     background: #555; 
 }
+.nav-open .off-canvas-sidebar .sidebar-wrapper {
+  color:#262e3b !important;
+}
